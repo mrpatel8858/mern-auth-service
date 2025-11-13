@@ -2,8 +2,6 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/pmvEgZC55Cg)
-
 About This Course:
 
 -   🔧 Backend Setup
@@ -55,5 +53,3 @@ npm run build
 ```shell
 npm run start
 ```
-
-### I'll see you in the next one! 🚀
